@@ -2,7 +2,7 @@
 
 [![](https://img.shields.io/github/release/kalkih/extended-entity-row.svg?style=flat-square)](https://github.com/kalkih/extended-entity-row/releases/latest)
 
-An extended entity-row for [Home Assistant](https://github.com/home-assistant/home-assistant) Lovelace UI, with support for basic templating for primary and secondary info.
+An extended entity-row for [Home Assistant](https://home-assistant.io/) Lovelace UI, with support for basic templating for primary and secondary info.
 
 ## Install
 
